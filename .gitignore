@@ -1,4 +1,3 @@
-/day-1/provider.tf
 /day-1/.terraform/*
 /day-1/.terraform.lock.hcl
 /day-1/terraform.tfstate
